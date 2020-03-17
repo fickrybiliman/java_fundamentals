@@ -24,6 +24,13 @@ public class Exercise_02 {
     public static void main(String[] args) {
 
         // write code here
+        int iWide = 10;
+        double dWide = iWide;
+        System.out.println(dWide);
+
+        double dNar = 10.5;
+        int iNar = (int) dNar;
+        System.out.println(iNar);
 
     }
 }
