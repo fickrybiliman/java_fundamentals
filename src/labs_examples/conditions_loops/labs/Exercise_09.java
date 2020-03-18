@@ -8,4 +8,16 @@ package labs_examples.conditions_loops.labs;
  */
 
 public class Exercise_09 {
+    public static void main(String[] args) {
+        int number = 1;
+        while (number < 10) {
+            if (number == 7) {
+                System.out.println(number);
+                break;
+            } else {
+                System.out.println(number);
+            }
+            number++;
+        }
+    }
 }
