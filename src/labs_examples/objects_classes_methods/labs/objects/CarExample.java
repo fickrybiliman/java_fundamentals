@@ -39,7 +39,7 @@ class Engine {
 
     @Override
     public String toString() {
-        return "Engine{" +
+        return "PowerPlant{" +
                 "horsePower=" + horsePower +
                 '}';
     }
