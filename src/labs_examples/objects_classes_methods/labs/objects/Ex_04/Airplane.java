@@ -21,7 +21,7 @@ public class Airplane {
 
     @Override
     public String toString() {
-        return "Airplane Specifications : " +
+        return "Exer_02 Specifications : " +
                 "\n Power Plant " + powerPlant +
                 ",\n Fuselage " + fuselage +
                 ",\n Wings " + wings +
