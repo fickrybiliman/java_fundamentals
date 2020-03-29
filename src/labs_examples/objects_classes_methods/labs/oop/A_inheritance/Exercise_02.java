@@ -3,14 +3,15 @@ package labs_examples.objects_classes_methods.labs.oop.A_inheritance;
 /**
  * Run the class below and study the output. What prints and why?
  *
- * Your answer:
+ * Your answer: print 10, because B class extends from A class, that why instance variable on class A is called
+ *              and instance variable on class B is never used
  *
  */
 class A {
     int i = 10;
 }
 
-class B extends A{
+class B extends A {
     int i = 20;
 }
 

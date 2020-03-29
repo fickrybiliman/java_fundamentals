@@ -1,6 +1,7 @@
 
 Without running the code below, please tell me what it will print.
 
+answer : it will print method doSomething on Child Class it is "Child called"
 
 
 public class InheritanceTest

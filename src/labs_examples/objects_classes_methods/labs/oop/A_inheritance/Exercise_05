@@ -1,7 +1,10 @@
 
 Without running the code below, please tell me what will print. Why?
 
-
+answer : it will print
+         "Parent called"
+         "Child called"
+         Because c object will executed Parent class first and then Child class, it is happen because Child class inherits from Parent class
 
 
 public class InheritanceTest
